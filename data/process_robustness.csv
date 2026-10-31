@@ -1,0 +1,73 @@
+scenario,G_pct,route,yield_in_range,breakeven_final,breakeven_probe
+"normal, no doping spread",5,Timed wet etch (KOH),0.4693,1.0,1.0
+"normal, no doping spread",5,Electrochemical etch stop,0.8823,6.385,2.159
+"normal, no doping spread",5,"Cavity-SOI, standard (±0.5 µm)",0.9398,7.133,2.32
+"normal, no doping spread",5,"Cavity-SOI, as quoted by Su (±1 µm)",0.6516,3.376,1.512
+"normal, no doping spread",5,"Cavity-SOI, EC-SOI (±0.2 µm)",1.0,7.918,2.489
+"normal, no doping spread",5,Silicon-on-nothing (<±0.2 µm),1.0,7.918,2.489
+"normal, no doping spread",10,Timed wet etch (KOH),0.7896,1.0,1.0
+"normal, no doping spread",10,Electrochemical etch stop,0.9978,2.613,1.347
+"normal, no doping spread",10,"Cavity-SOI, standard (±0.5 µm)",0.9997,2.628,1.35
+"normal, no doping spread",10,"Cavity-SOI, as quoted by Su (±1 µm)",0.9388,2.155,1.249
+"normal, no doping spread",10,"Cavity-SOI, EC-SOI (±0.2 µm)",1.0,2.63,1.351
+"normal, no doping spread",10,Silicon-on-nothing (<±0.2 µm),1.0,2.63,1.351
+"normal, no doping spread",20,Timed wet etch (KOH),0.9841,1.0,1.0
+"normal, no doping spread",20,Electrochemical etch stop,1.0,1.099,1.021
+"normal, no doping spread",20,"Cavity-SOI, standard (±0.5 µm)",1.0,1.099,1.021
+"normal, no doping spread",20,"Cavity-SOI, as quoted by Su (±1 µm)",0.9995,1.096,1.021
+"normal, no doping spread",20,"Cavity-SOI, EC-SOI (±0.2 µm)",1.0,1.099,1.021
+"normal, no doping spread",20,Silicon-on-nothing (<±0.2 µm),1.0,1.099,1.021
+normal + doping CV 2 %,5,Timed wet etch (KOH),0.457,1.0,1.0
+normal + doping CV 2 %,5,Electrochemical etch stop,0.8144,5.785,2.03
+normal + doping CV 2 %,5,"Cavity-SOI, standard (±0.5 µm)",0.8659,6.474,2.179
+normal + doping CV 2 %,5,"Cavity-SOI, as quoted by Su (±1 µm)",0.62,3.182,1.47
+normal + doping CV 2 %,5,"Cavity-SOI, EC-SOI (±0.2 µm)",0.973,7.907,2.487
+normal + doping CV 2 %,5,Silicon-on-nothing (<±0.2 µm),0.973,7.907,2.487
+normal + doping CV 2 %,10,Timed wet etch (KOH),0.7753,1.0,1.0
+normal + doping CV 2 %,10,Electrochemical etch stop,0.9916,2.706,1.367
+normal + doping CV 2 %,10,"Cavity-SOI, standard (±0.5 µm)",0.9971,2.75,1.377
+normal + doping CV 2 %,10,"Cavity-SOI, as quoted by Su (±1 µm)",0.9201,2.142,1.246
+normal + doping CV 2 %,10,"Cavity-SOI, EC-SOI (±0.2 µm)",1.0,2.772,1.382
+normal + doping CV 2 %,10,Silicon-on-nothing (<±0.2 µm),1.0,2.772,1.382
+normal + doping CV 2 %,20,Timed wet etch (KOH),0.9814,1.0,1.0
+normal + doping CV 2 %,20,Electrochemical etch stop,1.0,1.116,1.025
+normal + doping CV 2 %,20,"Cavity-SOI, standard (±0.5 µm)",1.0,1.116,1.025
+normal + doping CV 2 %,20,"Cavity-SOI, as quoted by Su (±1 µm)",0.9991,1.11,1.024
+normal + doping CV 2 %,20,"Cavity-SOI, EC-SOI (±0.2 µm)",1.0,1.116,1.025
+normal + doping CV 2 %,20,Silicon-on-nothing (<±0.2 µm),1.0,1.116,1.025
+normal + doping CV 4 %,5,Timed wet etch (KOH),0.4233,1.0,1.0
+normal + doping CV 4 %,5,Electrochemical etch stop,0.6709,4.577,1.77
+normal + doping CV 4 %,5,"Cavity-SOI, standard (±0.5 µm)",0.7017,5.022,1.866
+normal + doping CV 4 %,5,"Cavity-SOI, as quoted by Su (±1 µm)",0.5458,2.77,1.381
+normal + doping CV 4 %,5,"Cavity-SOI, EC-SOI (±0.2 µm)",0.7739,6.066,2.091
+normal + doping CV 4 %,5,Silicon-on-nothing (<±0.2 µm),0.7739,6.066,2.091
+normal + doping CV 4 %,10,Timed wet etch (KOH),0.7373,1.0,1.0
+normal + doping CV 4 %,10,Electrochemical etch stop,0.9488,2.755,1.378
+normal + doping CV 4 %,10,"Cavity-SOI, standard (±0.5 µm)",0.9627,2.87,1.403
+normal + doping CV 4 %,10,"Cavity-SOI, as quoted by Su (±1 µm)",0.8659,2.067,1.23
+normal + doping CV 4 %,10,"Cavity-SOI, EC-SOI (±0.2 µm)",0.9845,3.05,1.441
+normal + doping CV 4 %,10,Silicon-on-nothing (<±0.2 µm),0.9845,3.05,1.441
+normal + doping CV 4 %,20,Timed wet etch (KOH),0.972,1.0,1.0
+normal + doping CV 4 %,20,Electrochemical etch stop,0.9999,1.176,1.038
+normal + doping CV 4 %,20,"Cavity-SOI, standard (±0.5 µm)",0.9999,1.176,1.038
+normal + doping CV 4 %,20,"Cavity-SOI, as quoted by Su (±1 µm)",0.9964,1.154,1.033
+normal + doping CV 4 %,20,"Cavity-SOI, EC-SOI (±0.2 µm)",1.0,1.176,1.038
+normal + doping CV 4 %,20,Silicon-on-nothing (<±0.2 µm),1.0,1.176,1.038
+uniform over full tolerance,5,Timed wet etch (KOH),0.3133,1.0,1.0
+uniform over full tolerance,5,Electrochemical etch stop,0.5228,5.09,1.881
+uniform over full tolerance,5,"Cavity-SOI, standard (±0.5 µm)",0.6274,7.133,2.32
+uniform over full tolerance,5,"Cavity-SOI, as quoted by Su (±1 µm)",0.3133,1.0,1.0
+uniform over full tolerance,5,"Cavity-SOI, EC-SOI (±0.2 µm)",1.0,14.407,3.886
+uniform over full tolerance,5,Silicon-on-nothing (<±0.2 µm),1.0,14.407,3.886
+uniform over full tolerance,10,Timed wet etch (KOH),0.63,1.0,1.0
+uniform over full tolerance,10,Electrochemical etch stop,0.987,4.466,1.746
+uniform over full tolerance,10,"Cavity-SOI, standard (±0.5 µm)",1.0,4.593,1.773
+uniform over full tolerance,10,"Cavity-SOI, as quoted by Su (±1 µm)",0.63,1.0,1.0
+uniform over full tolerance,10,"Cavity-SOI, EC-SOI (±0.2 µm)",1.0,4.593,1.773
+uniform over full tolerance,10,Silicon-on-nothing (<±0.2 µm),1.0,4.593,1.773
+uniform over full tolerance,20,Timed wet etch (KOH),1.0,1.0,1.0
+uniform over full tolerance,20,Electrochemical etch stop,1.0,1.0,1.0
+uniform over full tolerance,20,"Cavity-SOI, standard (±0.5 µm)",1.0,1.0,1.0
+uniform over full tolerance,20,"Cavity-SOI, as quoted by Su (±1 µm)",1.0,1.0,1.0
+uniform over full tolerance,20,"Cavity-SOI, EC-SOI (±0.2 µm)",1.0,1.0,1.0
+uniform over full tolerance,20,Silicon-on-nothing (<±0.2 µm),1.0,1.0,1.0

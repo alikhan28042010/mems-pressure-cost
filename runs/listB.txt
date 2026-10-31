@@ -1,0 +1,5 @@
+--nxy 8 --nz 2 --frame 150 100
+--nxy 12 --nz 2 --frame 150 100
+--nxy 16 --nz 1 --frame 150 100
+--nxy 16 --nz 2 --frame 150 100
+--nxy 20 --nz 2 --frame 150 100

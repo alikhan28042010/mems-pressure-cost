@@ -1,0 +1,7 @@
+route,sigma_base_um,sigma_conservative_um,band_um,die_mm,what_the_source_gives,source
+Timed wet etch (KOH),0.5,1.0,1.0,2.0,"die-to-die variation about +-1 um within a wafer, 10-14 um KOH membranes (base: +-2 sigma; conservative: +-1 sigma)",Singh et al. (2014) IEEE Trans. Semicond. Manuf. 27(3):410-416
+Electrochemical etch stop,0.2,0.3,0.6,2.0,"membrane thickness standard deviation 0.2 um; band = +-3 sigma",Kloeck et al. (1989) IEEE Trans. Electron Devices 36(4):663-669
+"Cavity-SOI, standard (±0.5 µm)",0.16666666666666666,0.25,0.5,1.2,"device layer typically +-0.5 um (base: +-3 sigma; conservative: +-2 sigma)",Okmetic C-SOI product page (accessed Oct 2026)
+"Cavity-SOI, as quoted by Su (±1 µm)",0.3333333333333333,0.5,1.0,1.2,"cavity-SOI thickness variation +-1 um after grinding (base: +-3 sigma; conservative: +-2 sigma)","Su et al. (2019) J. Sensors 5408268, Section 4"
+"Cavity-SOI, EC-SOI (±0.2 µm)",0.06666666666666667,0.1,0.2,1.2,"down to +-0.2 um (base: +-3 sigma; conservative: +-2 sigma)",Okmetic C-SOI product page (accessed Oct 2026)
+"Silicon-on-nothing (<±0.2 µm)",0.06666666666666667,0.1,0.2,1.2,"epitaxial membrane less than +-0.2 um, claimed by the authors (base: +-3 sigma; conservative: +-2 sigma)","Su et al. (2019) J. Sensors 5408268, Section 4"

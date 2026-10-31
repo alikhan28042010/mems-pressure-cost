@@ -1,0 +1,10 @@
+{
+ "N_gross": 9390,
+ "N_gross_2mm_die": 3540,
+ "silicon_cost_per_die_usd": 0.0947,
+ "backend_cost_per_die_usd": 0.4844,
+ "backend_share": 0.837,
+ "calibration_cost_usd": 0.2344,
+ "S0_mV_per_V": 34.559,
+ "fem_sweep_logfit_exponent": 2.074
+}

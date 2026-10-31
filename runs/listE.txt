@@ -1,0 +1,1 @@
+--nxy 16 --nz 2 --frame 150 100 --map data/map_frame_t13.csv --profile data/profile_frame_t13_fine.csv

@@ -1,0 +1,16 @@
+route,case,sigma_um,source,in_pm2pct,in_pm5pct,in_pm10pct,in_pm15pct,in_pm20pct,in_pm25pct,sensitivity_CV_pct
+Timed wet etch (KOH),base,0.5,Singh et al. (2014) IEEE Trans. Semicond. Manuf. 27(3):410-416,0.198,0.4686,0.7905,0.9379,0.9838,0.9961,8.05
+Timed wet etch (KOH),conservative,1.0,Singh et al. (2014) IEEE Trans. Semicond. Manuf. 27(3):410-416,0.0993,0.246,0.4691,0.6576,0.7924,0.8808,16.5
+Electrochemical etch stop,base,0.2,Kloeck et al. (1989) IEEE Trans. Electron Devices 36(4):663-669,0.4691,0.8823,0.9978,1.0,1.0,1.0,3.2
+Electrochemical etch stop,conservative,0.3,Kloeck et al. (1989) IEEE Trans. Electron Devices 36(4):663-669,0.324,0.7037,0.9623,0.9975,0.9998,1.0,4.82
+"Cavity-SOI, standard (±0.5 µm)",base,0.1667,Okmetic C-SOI product page (accessed Oct 2026),0.5475,0.9394,0.9997,1.0,1.0,1.0,2.67
+"Cavity-SOI, standard (±0.5 µm)",conservative,0.25,Okmetic C-SOI product page (accessed Oct 2026),0.3835,0.7905,0.9868,0.9997,1.0,1.0,4.0
+"Cavity-SOI, as quoted by Su (±1 µm)",base,0.3333,"Su et al. (2019) J. Sensors 5408268, Section 4",0.2932,0.6507,0.9383,0.9933,0.9995,1.0,5.36
+"Cavity-SOI, as quoted by Su (±1 µm)",conservative,0.5,"Su et al. (2019) J. Sensors 5408268, Section 4",0.1986,0.4692,0.7891,0.9372,0.9833,0.996,8.05
+"Cavity-SOI, EC-SOI (±0.2 µm)",base,0.0667,Okmetic C-SOI product page (accessed Oct 2026),0.9395,1.0,1.0,1.0,1.0,1.0,1.07
+"Cavity-SOI, EC-SOI (±0.2 µm)",conservative,0.1,Okmetic C-SOI product page (accessed Oct 2026),0.7888,0.9981,1.0,1.0,1.0,1.0,1.6
+Silicon-on-nothing (<±0.2 µm),base,0.0667,"Su et al. (2019) J. Sensors 5408268, Section 4",0.9393,1.0,1.0,1.0,1.0,1.0,1.07
+Silicon-on-nothing (<±0.2 µm),conservative,0.1,"Su et al. (2019) J. Sensors 5408268, Section 4",0.7891,0.9982,1.0,1.0,1.0,1.0,1.6
+APSM / MIS scenario,sigma=0.1,0.1,ASSUMPTION,0.7912,0.9982,1.0,1.0,1.0,1.0,1.6
+APSM / MIS scenario,sigma=0.3,0.3,ASSUMPTION,0.3245,0.7036,0.9622,0.9973,0.9998,1.0,4.78
+APSM / MIS scenario,sigma=0.6,0.6,ASSUMPTION,0.167,0.3989,0.704,0.8825,0.9587,0.9859,9.69

@@ -1,0 +1,4 @@
+case,t_um,side_um,p_kPa,w_linear_um,w_nonlinear_um,w_change_pct,vout_linear_mV_per_V,vout_nonlinear_mV_per_V,vout_change_pct,w_over_t_linear
+Singh membrane,12.0,1097.0,50.0,4.0206,3.8242,-4.9,39.36,39.74,1.0,0.335
+Singh membrane,9.0,1093.0,50.0,9.3764,7.1035,-24.2,69.476,63.439,-8.7,1.042
+Su membrane,13.0,600.0,100.0,0.5702,0.5697,-0.1,36.325,36.521,0.5,0.044

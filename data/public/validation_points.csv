@@ -1,0 +1,11 @@
+quantity,value,unit,conditions,source,how_it_is_used
+centre deflection of the 13 um SON membrane,0.64,um,"600 x 600 um, 13 um, 100 kPa, ANSYS","Su et al. (2019), Section 3.1, Fig. 2b",FEM check
+sensitivity at 0 C,0.79,mV/kPa,"SON sensor, supply voltage not given","Su et al. (2019), Section 4",order-of-magnitude check of piezoresistive coefficients
+sensitivity at 40 C,0.72,mV/kPa,same,"Su et al. (2019), Section 4",same
+sensitivity at 80 C,0.67,mV/kPa,same,"Su et al. (2019), Section 4",same
+resistor sheet resistance,200-500,ohm/sq,light boron implant,"Su et al. (2019), Section 3.4",doping level of the reference sensor
+measured sensitivity 10 um membranes,86.7-96.6,mV/V/bar,"5 V, 50 kPa, 5 dies per wafer, thickness +-1 um","Singh et al. (2014), Table III",FEM check
+measured sensitivity 12 um membranes,71.9-84.5,mV/V/bar,same,"Singh et al. (2014), Table III",FEM check
+measured sensitivity 14 um membranes,50.5-54.5,mV/V/bar,same,"Singh et al. (2014), Table III",FEM check
+sensitivity spread with EC etch stop,4,% (1 s.d.),"devices on the same wafer, EC etch-stop membranes","Kloeck et al. (1989), abstract",checks the Monte Carlo spread for the etch-stop route
+sensitivity range without etch stop,about 2x,ratio,devices on the same wafer,"Kloeck et al. (1989), abstract",supports the conservative case for timed etching

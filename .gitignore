@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+fem3d/runs/
+.ipynb_checkpoints/
+paper/**/*.aux
+paper/**/*.log
+paper/**/*.bbl
+paper/**/*.blg
+paper/**/*.out
+paper/**/*.toc
+paper/

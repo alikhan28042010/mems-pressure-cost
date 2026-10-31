@@ -1,0 +1,19 @@
+route,input,base_cost,cost_at_low,cost_at_high,low,high,source
+Timed wet etch (KOH),C_wafer,0.756,0.6942,0.8796,400.0,1600.0,"Lawes (2007), Microsyst. Technol. 13:85-95: CMOS+MEMS accelerometer on 150 mm wafers, 10,000 wafers/yr: $750 electronics + ~$30 DRIE + $20 blank = ~$800"
+Timed wet etch (KOH),Y_wafer,0.756,0.7715,0.7471,0.8,0.97,ASSUMPTION
+Timed wet etch (KOH),C_asic,0.756,0.6254,1.0824,0.05,0.4,ASSUMPTION
+Timed wet etch (KOH),C_pkg,0.756,0.6907,1.0171,0.05,0.3,"Fitzgerald (2021), NCCAVS webinar: molded pressure-sensor package under $0.10"
+Timed wet etch (KOH),rate_cal,0.756,0.5724,1.1844,10.0,60.0,ASSUMPTION
+Timed wet etch (KOH),t_cal,0.756,0.603,0.909,16.875,50.625,"Pavlin & Novak (2008), Sens. Actuators A 141:34-42: 3 pressures x 3 temperatures, 128 sensors in about 72 min"
+Timed wet etch (KOH),Y_other,0.756,0.7885,0.7407,0.93,0.99,ASSUMPTION
+Timed wet etch (KOH),C_probe,0.756,0.756,0.756,0.01,0.08,ASSUMPTION
+Timed wet etch (KOH),G,0.756,1.2721,0.6066,5.0,20.0,ASSUMPTION
+"Cavity-SOI, standard (±0.5 µm)",C_wafer,0.5971,0.5483,0.6947,400.0,1600.0,"Lawes (2007), Microsyst. Technol. 13:85-95: CMOS+MEMS accelerometer on 150 mm wafers, 10,000 wafers/yr: $750 electronics + ~$30 DRIE + $20 blank = ~$800"
+"Cavity-SOI, standard (±0.5 µm)",Y_wafer,0.5971,0.6093,0.5901,0.8,0.97,ASSUMPTION
+"Cavity-SOI, standard (±0.5 µm)",C_asic,0.5971,0.494,0.8549,0.05,0.4,ASSUMPTION
+"Cavity-SOI, standard (±0.5 µm)",C_pkg,0.5971,0.5455,0.8033,0.05,0.3,"Fitzgerald (2021), NCCAVS webinar: molded pressure-sensor package under $0.10"
+"Cavity-SOI, standard (±0.5 µm)",rate_cal,0.5971,0.4521,0.9355,10.0,60.0,ASSUMPTION
+"Cavity-SOI, standard (±0.5 µm)",t_cal,0.5971,0.4763,0.7179,16.875,50.625,"Pavlin & Novak (2008), Sens. Actuators A 141:34-42: 3 pressures x 3 temperatures, 128 sensors in about 72 min"
+"Cavity-SOI, standard (±0.5 µm)",Y_other,0.5971,0.6228,0.585,0.93,0.99,ASSUMPTION
+"Cavity-SOI, standard (±0.5 µm)",C_probe,0.5971,0.5971,0.5971,0.01,0.08,ASSUMPTION
+"Cavity-SOI, standard (±0.5 µm)",G,0.5971,0.6352,0.5969,5.0,20.0,ASSUMPTION

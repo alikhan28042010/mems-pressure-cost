@@ -1,0 +1,4 @@
+--nxy 12 --nz 2 --t 9 --side 1093 --p 50 --pi 3 -1 80 --resL 60 10 10 --resT 60 10 20 --frame 300 600 --depth 1
+--nxy 12 --nz 2 --t 10 --side 1094 --p 50 --pi 3 -1 80 --resL 60 10 10 --resT 60 10 20 --frame 300 600 --depth 1
+--nxy 12 --nz 2 --t 11 --side 1095 --p 50 --pi 3 -1 80 --resL 60 10 10 --resT 60 10 20 --frame 300 600 --depth 1
+--nxy 12 --nz 2 --t 12 --side 1097 --p 50 --pi 3 -1 80 --resL 60 10 10 --resT 60 10 20 --frame 300 600 --depth 1

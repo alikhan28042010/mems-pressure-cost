@@ -1,0 +1,18 @@
+--nxy 12 --nz 2 --t 9 --profile data/profile_clamp_t9.csv
+--nxy 12 --nz 2 --t 10 --profile data/profile_clamp_t10.csv
+--nxy 12 --nz 2 --t 11 --profile data/profile_clamp_t11.csv
+--nxy 12 --nz 2 --t 12 --profile data/profile_clamp_t12.csv
+--nxy 12 --nz 2 --t 13 --profile data/profile_clamp_t13.csv
+--nxy 12 --nz 2 --t 14 --profile data/profile_clamp_t14.csv
+--nxy 12 --nz 2 --t 15 --profile data/profile_clamp_t15.csv
+--nxy 12 --nz 2 --t 16 --profile data/profile_clamp_t16.csv
+--nxy 12 --nz 2 --t 17 --profile data/profile_clamp_t17.csv
+--nxy 12 --nz 2 --t 9 --side 1093 --p 50 --pi 3 -1 80 --resL 60 10 10 --resT 60 10 20 --frame 300 600
+--nxy 12 --nz 2 --t 10 --side 1094 --p 50 --pi 3 -1 80 --resL 60 10 10 --resT 60 10 20 --frame 300 600
+--nxy 12 --nz 2 --t 11 --side 1095 --p 50 --pi 3 -1 80 --resL 60 10 10 --resT 60 10 20 --frame 300 600
+--nxy 12 --nz 2 --t 12 --side 1097 --p 50 --pi 3 -1 80 --resL 60 10 10 --resT 60 10 20 --frame 300 600
+--nxy 12 --nz 2 --t 13 --side 1098 --p 50 --pi 3 -1 80 --resL 60 10 10 --resT 60 10 20 --frame 300 600
+--nxy 12 --nz 2 --t 14 --side 1100 --p 50 --pi 3 -1 80 --resL 60 10 10 --resT 60 10 20 --frame 300 600
+--nxy 12 --nz 2 --t 15 --side 1101 --p 50 --pi 3 -1 80 --resL 60 10 10 --resT 60 10 20 --frame 300 600
+--nxy 12 --nz 2 --t 12 --side 1097 --p 50 --pi 3 -1 80 --resL 60 10 10 --resT 60 10 20
+--nxy 16 --nz 2 --t 12 --side 1097 --p 50 --pi 3 -1 80 --resL 60 10 10 --resT 60 10 20 --frame 300 600

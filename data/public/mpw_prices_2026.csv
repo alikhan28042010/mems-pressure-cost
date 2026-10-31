@@ -1,0 +1,5 @@
+process,unit,price_standard_eur,price_academic_eur,area_mm2,eur_per_mm2_standard,note,source,accessed
+Science SOI (MEMSCAP SOIMUMPs successor),block 9 x 9 mm,13000,10000,81,160,prototype run,https://europractice-ic.com/schedules-prices-2026/,2026-10-31
+Science Piezo,block 9 x 9 mm,13000,10000,81,160,prototype run,https://europractice-ic.com/schedules-prices-2026/,2026-10-31
+Science Poly (PolyMUMPs successor),block 10 x 10 mm,19500,15000,100,195,prototype run,https://europractice-ic.com/schedules-prices-2026/,2026-10-31
+X-FAB XMB10 MEMS (core),per mm2 (min. 10 mm2),1253,1168,1,1253,50 dies included,https://europractice-ic.com/schedules-prices-2026/,2026-10-31

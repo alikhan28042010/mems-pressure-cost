@@ -1,0 +1,3 @@
+--nxy 12 --nz 2 --t 12 --frame 150 100 --depth 1
+--nxy 12 --nz 2 --t 13 --frame 150 100 --depth 1
+--nxy 12 --nz 2 --t 14 --frame 150 100 --depth 1

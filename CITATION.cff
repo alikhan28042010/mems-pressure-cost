@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Cost-effective fabrication of MEMS pressure sensors: simulation code and data"
+authors:
+  - family-names: Yerekeshov
+    given-names: Alikhan
+    affiliation: "Republican Physics and Mathematics School, Astana"
+version: 0.1.0
+date-released: 2026-10-31
+license: MIT
+repository-code: "https://github.com/alikhan28042010/mems-pressure-cost"
+keywords:
+  - MEMS
+  - piezoresistive pressure sensor
+  - finite element method
+  - cost model

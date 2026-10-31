@@ -1,0 +1,10 @@
+input,base,low,high,source
+C_wafer,800.0,400.0,1600.0,"Lawes (2007), Microsyst. Technol. 13:85-95: CMOS+MEMS accelerometer on 150 mm wafers, 10,000 wafers/yr: $750 electronics + ~$30 DRIE + $20 blank = ~$800"
+Y_wafer,0.9,0.8,0.97,ASSUMPTION
+C_asic,0.15,0.05,0.4,ASSUMPTION
+C_pkg,0.1,0.05,0.3,"Fitzgerald (2021), NCCAVS webinar: molded pressure-sensor package under $0.10"
+rate_cal,25.0,10.0,60.0,ASSUMPTION
+t_cal,33.75,16.875,50.625,"Pavlin & Novak (2008), Sens. Actuators A 141:34-42: 3 pressures x 3 temperatures, 128 sensors in about 72 min"
+Y_other,0.97,0.93,0.99,ASSUMPTION
+C_probe,0.03,0.01,0.08,ASSUMPTION
+G,10.0,5.0,20.0,ASSUMPTION

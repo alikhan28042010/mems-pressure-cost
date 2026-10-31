@@ -1,0 +1,10 @@
+name,base,low,high,unit,kind,source,match_to_this_study
+C_wafer,800,400,1600,USD per processed 150 mm wafer,published model value,"Lawes (2007), Microsyst. Technol. 13:85-95: CMOS+MEMS accelerometer on 150 mm wafers, 10,000 wafers/yr: $750 electronics + ~$30 DRIE + $20 blank = ~$800","Same wafer size as the die count used here (150 mm). Different device (accelerometer), and 2007 prices, so the range is x0.5 to x2"
+Y_wafer,0.9,0.8,0.97,fraction,assumed,,
+C_asic,0.15,0.05,0.4,USD per sensor,assumed,,
+C_pkg,0.1,0.05,0.3,USD per sensor,published estimate,"Fitzgerald (2021), NCCAVS webinar: molded pressure-sensor package under $0.10","Same device type (pressure sensor package)"
+rate_cal,25,10,60,USD per hour of chamber time,assumed,,
+t_cal,33.75,16.875,50.625,s per sensor,published measurement,"Pavlin & Novak (2008), Sens. Actuators A 141:34-42: 3 pressures x 3 temperatures, 128 sensors in about 72 min","Same sensor type (piezoresistive pressure sensor) and same need for multi-temperature calibration; high value = batch two-thirds full"
+Y_other,0.97,0.93,0.99,fraction,assumed,,
+C_probe,0.03,0.01,0.08,USD per die,assumed,,
+G,10,5,20,percent,assumed,,

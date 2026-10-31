@@ -1,0 +1,10 @@
+--iso 169 0.3 --nxy 8 --nz 1
+--iso 169 0.3 --nxy 8 --nz 2
+--iso 169 0.3 --nxy 12 --nz 2
+--iso 169 0.3 --nxy 16 --nz 2
+--iso 169 0.3 --nxy 20 --nz 2
+--nxy 8 --nz 2
+--nxy 12 --nz 2
+--nxy 16 --nz 2
+--nxy 20 --nz 2
+--nxy 16 --nz 3

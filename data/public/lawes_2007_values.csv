@@ -1,0 +1,10 @@
+item,value,unit,context
+blank wafer,25,USD,model input example
+mask (optical aligner),700,USD per mask,Table 2
+mask (optical stepper),1500,USD per mask,Table 2
+wet bulk micromachining layer,2.97,USD per wafer (variable incl. 2 USD consumables),Table 2
+three-poly surface micromachining,652,USD per 200 mm wafer,"10,000 wafers/yr"
+CMOS electronics,750,USD per 150 mm wafer,"accelerometer example, 10,000 wafers/yr"
+CMOS + MEMS accelerometer total,800,USD per 150 mm wafer,"750 + ~30 DRIE + 20 blank"
+accelerometer chip,0.22,USD per 4.5 mm2 chip,"100 % yield, 3,697 chips per 150 mm wafer"
+packaging share,more than 50,percent of device cost,"rises to about 70 % for a 2 mm2 chip"

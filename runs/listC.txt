@@ -1,0 +1,12 @@
+--nxy 12 --nz 2 --frame 100 50
+--nxy 12 --nz 2 --frame 250 200
+--nxy 12 --nz 2 --frame 400 400
+--nxy 12 --nz 2 --frame 150 100 --t 9 --profile data/profile_frame_t9.csv
+--nxy 12 --nz 2 --frame 150 100 --t 10 --profile data/profile_frame_t10.csv
+--nxy 12 --nz 2 --frame 150 100 --t 11 --profile data/profile_frame_t11.csv
+--nxy 12 --nz 2 --frame 150 100 --t 12 --profile data/profile_frame_t12.csv
+--nxy 12 --nz 2 --frame 150 100 --t 13 --profile data/profile_frame_t13.csv
+--nxy 12 --nz 2 --frame 150 100 --t 14 --profile data/profile_frame_t14.csv
+--nxy 12 --nz 2 --frame 150 100 --t 15 --profile data/profile_frame_t15.csv
+--nxy 12 --nz 2 --frame 150 100 --t 16 --profile data/profile_frame_t16.csv
+--nxy 12 --nz 2 --frame 150 100 --t 17 --profile data/profile_frame_t17.csv

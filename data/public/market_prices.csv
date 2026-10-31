@@ -1,0 +1,5 @@
+part,maker,type,package,quantity,unit_price_usd,distributor,source,accessed
+BMP390,Bosch Sensortec,piezoresistive barometric pressure sensor with ASIC,LGA-10 2.0 x 2.0 x 0.75 mm,1,3.58,Mouser,https://www.mouser.com/ProductDetail/Bosch-Sensortec/BMP390?qs=QNEnbhJQKvYQVfvRMgo2YA%3D%3D,2026-10-31
+BMP390,Bosch Sensortec,piezoresistive barometric pressure sensor with ASIC,LGA-10 2.0 x 2.0 x 0.75 mm,100,2.67,Mouser,same,2026-10-31
+BMP390,Bosch Sensortec,piezoresistive barometric pressure sensor with ASIC,LGA-10 2.0 x 2.0 x 0.75 mm,1000,2.38,Mouser,same,2026-10-31
+BMP390,Bosch Sensortec,piezoresistive barometric pressure sensor with ASIC,LGA-10 2.0 x 2.0 x 0.75 mm,10000,2.16,Mouser,same,2026-10-31

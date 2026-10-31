@@ -1,0 +1,4 @@
+route,sigma_um,note
+APSM / MIS scenario,0.1,no published thickness data for Bosch APSM (Boehringer et al. 2012) or MIS (Jiao et al. 2020)
+APSM / MIS scenario,0.3,same
+APSM / MIS scenario,0.6,same
